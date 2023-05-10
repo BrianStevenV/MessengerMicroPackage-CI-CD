@@ -14,14 +14,14 @@ application, The client must to register in the system their package, in this mi
 #Technologies
 The project was built in: 
 
--Java
--SpringBoot
--SpringJPA
--SpringSecurity
--MySQL
--JUnit
--Swagger
--CI/CD
+- Java
+- SpringBoot
+- SpringJPA
+- SpringSecurity
+- MySQL
+- JUnit
+- Swagger
+- CI/CD
 
 # Funcionalities
 
